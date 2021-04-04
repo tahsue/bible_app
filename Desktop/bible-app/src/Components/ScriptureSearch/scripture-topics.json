@@ -1,0 +1,47 @@
+{
+    "Faith": [
+        "mark 5:25-34", "john 8:24", "john 7:38", "romans 10:17", "mark 5:36", "1 1ohn 5:5", "romans 10:9"
+    ], 
+    "Hope": [
+        "1 Peter 1:13", "1 Peter 5:10", "Hebrews 11:11", "Mark 9:23", "Hebrews 11:11"
+    ], 
+    "Chairity": [
+        "Matthew 25:35", "Matthew 25:40", "Romans 12:10", "Luke 11:41"
+    ],    
+    "Service": [
+        "MATTHEW 5:16", "MATTHEW 5:42", "MATTHEW 10:8", "MATTHEW 25:40", "MARK 10:45"
+    ],    
+    "Honesty": [
+        "2 Corinthians 8:21", "2 Timothy 2:15", "James 1:26", "James 3:17", "Luke 6:31"
+    ],
+    "Sacrament": [
+        "1 Corinthians 11:23-25", "Matthew 26:26-28", "Mark 14:22-24", "Luke 22:17-20"
+    ],
+    "Atonement": [
+        "1 John 2:2", "John 3:16", "John 1:29", "1 Peter 2:24", "Leviticus 17:11"
+    ],
+    "Family": [
+        "1 John 4:19", "1 Corinthians 11:3", "1 Corinthians 13:4-7", "1 Timothy 3:4", "1 Timothy 3:5"
+    ],
+    "Fasting": [
+        "1 Corinthians 7:5", "Acts 13:2", "Acts 14:23", "Luke 2:37", "Luke 18:12"
+    ],
+    "Missionary Work": [
+        "Mark 10:45", "Acts 4:19-20", "1 Peter 4:10", "Matthew 24:14", "Matthew 25:40"
+    ],
+    "Obedience": [
+        "John 14:15", "Acts 5:29", "1 Peter 1:14", "1 John 5:3", "Luke 6:46"
+    ],
+    "Tithing": [
+        "Matthew 6:21", "Matthew 23:23", "Numbers 18:21", "Genesis 14:19-20"
+    ],
+    "Scriptures": [
+        "2 Timothy 3:16", "Matthew 24:35", "Matthew 4:4", "Matthew 22:29", "Romans 1:16"
+    ],
+    "Baptism": [
+        "1 Peter 3:21", "Acts 19:4", "Acts 22:16", "John 1:33", "John 3:5", "Luke 3:16"
+    ],
+    "Jesus Christ": [
+        "john 3:16", "Mark 10:27", "1 John 4:15", "John 10:28-30", "Matthew 18:20", "1 John 4:9", "John 15:12"
+    ]
+}
